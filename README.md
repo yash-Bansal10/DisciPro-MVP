@@ -4,7 +4,15 @@ DisciPro is a peer-to-peer skill exchange platform designed to connect individua
 
 This repository contains the **Phase 0 (Minimum Viable Product)** implementation, developed as part of the Lenovo Leap Internship Capstone.
 
-## 🚀 Features (Phase 0)
+## 📸 App Interface
+![Landing Page](images/home.png)
+![Explore Users](images/explore.png)
+![Profile Dashboard](images/profile.png)
+![Manage Requests](images/requests.png)
+
+
+
+## 🚀 Features
 - **Secure Authentication:** User registration and login utilizing strict JWT (JSON Web Tokens) and bcrypt password hashing.
 - **Profile Management:** Users can customize their bio, and specify the skills they can teach vs. the skills they want to learn.
 - **User Discovery:** A dashboard to explore other users on the platform based on their skills.
